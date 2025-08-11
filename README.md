@@ -40,6 +40,25 @@ I'm a Computer Science (AI/ML) undergraduate and Tech Lead Intern at Viswam AI, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilesh9ix&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilesh9ix&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh9ix&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 Activity Graph
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilesh9ix&theme=react-dark&hide_border=true)
+
+</div>
+
 ## 🌟 Featured Projects
 
 ### [KogniCare](https://github.com/nikhilesh9ix/kognicare)
@@ -73,12 +92,12 @@ Language translation system. NexVerse Translations is an AI-powered tool that tr
 - **Focus Areas:** Language translation, Indian languages, Multimodal input
 
 ### [VerseVaani](https://github.com/nikhilesh9ix/versevaani)
-VerseVaani is an open-source AI assistant that interprets Sanskrit verses (shlokas) in a poetic and spiritually rich manner. Built with an open large language model (LLM), it provides an English poetic translation, a word-by-word meaning breakdown, and a cultural or spiritual interpretation.
+VerseVaani is an open-source AI assistant that interprets Sanskrit verses (shlokas) in a poetic and spiritually rich manner. Built with an open large language model (LLM), it provides an English poetic translation, a word-by-word meaning breakdown, and a cultural or spiritual interpretation. The project is designed to be accessible to students, spiritual seekers, and Indian language enthusiasts, with future plans to support Hindi and Telugu.
 - **Tech Stack:** Python, LLMs, NLP, Sanskrit Processing
 - **Focus Areas:** Cultural AI, Language interpretation, Spiritual technology
 
 ### [HerVival](https://github.com/nikhilesh9ix/hervival)
-HerVival is a comprehensive, AI-powered mobile platform designed to support women in India who have faced harassment, abuse, or emotional distress. It offers a safe, judgment-free space where users can access virtual support groups, personalized self-care plans, professional counseling, and critical safety resources.
+HerVival is a comprehensive, AI-powered mobile platform designed to support women in India who have faced harassment, abuse, or emotional distress. It offers a safe, judgment-free space where users can access virtual support groups, personalized self-care plans, professional counseling, and critical safety resources such as SOS contacts and legal aid connections. By combining real-time emotional support, AI-driven guidance, and partnerships with mental health professionals, NGOs, and government bodies, HerVival bridges the gap between crisis and recovery. Its holistic approach focuses on empowering women to heal, rebuild their lives, and regain confidence, while ensuring privacy, security, and culturally sensitive care.
 - **Tech Stack:** AI/ML, Mobile Development, Mental Health Tech, Security
 - **Focus Areas:** Women's safety, Mental health support, Social impact
 
@@ -100,6 +119,13 @@ HerVival is a comprehensive, AI-powered mobile platform designed to support wome
 
 </div>
 
+## 💭 Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 ---
 
 <div align="center">
@@ -107,5 +133,7 @@ HerVival is a comprehensive, AI-powered mobile platform designed to support wome
 **"Building AI solutions that bridge technology and humanity"**
 
 Thanks for visiting my profile! Let's collaborate on something amazing! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/nikhilesh9ix/count.svg)
 
 </div>
