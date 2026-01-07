@@ -209,11 +209,11 @@ Minimal and magical speech-to-text note-taking app featuring glassmorphism desig
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilesh9ix&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilesh9ix&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilesh9ix&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilesh9ix&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh9ix&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilesh9ix&theme=radical&hide_border=true)
 
 </div>
 
