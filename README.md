@@ -298,37 +298,6 @@ Contributed to entrepreneurship activities, organized events and workshops, and 
 
 ---
 
-<div align="center">
-
-### 💭 "Building AI solutions that bridge technology and humanity"
-
-**Open for collaborations, research opportunities, and innovative projects!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilesh9ix&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
-- **Tech Stack:** AI/ML, Mobile Development, Mental Health Tech, Security
-- **Focus Areas:** Women's safety, Mental health support, Social impact
-
-## 🎯 Current Focus Areas
-- 🧠 **Natural Language Processing** - Working with multilingual models and Indic languages
-- 🏥 **Healthcare AI** - Developing AI solutions for patient monitoring and care
-- 🔊 **Speech Recognition** - Building voice-based applications with Whisper
-- 🤖 **Generative AI** - Exploring LLMs and their applications
-- 🌏 **Ethical AI** - Contributing to responsible AI development in emerging markets
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilesh-raju-kuppili-76537927a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nikhileshuraju.wixstudio.com/nikhilesh-portfoli-3)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhileshuraju@gmail.com)
-[![Academic Email](https://img.shields.io/badge/-Academic%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:23r11a66h7@gcet.edu.in)
-
-</div>
-
 ## 💭 Random Dev Quote
 <div align="center">
 
@@ -340,10 +309,12 @@ Contributed to entrepreneurship activities, organized events and workshops, and 
 
 <div align="center">
 
-**"Building AI solutions that bridge technology and humanity"**
+### 💭 "Building AI solutions that bridge technology and humanity"
+
+**Open for collaborations, research opportunities, and innovative projects!**
 
 Thanks for visiting my profile! Let's collaborate on something amazing! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/nikhilesh9ix/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilesh9ix&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
