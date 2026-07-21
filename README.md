@@ -17,22 +17,6 @@
 
 <br/>
 
-```python
-class NikhileshRaju:
-    def __init__(self):
-        self.role       = "AI/ML Engineer"
-        self.education  = "B.Tech CS (AI & ML) @ GCET, 2023-2027"
-        self.focus      = ["Healthcare AI", "Multilingual NLP", "Causal AI"]
-        self.shipped    = 11              # projects, all open source
-        self.hackathons = "25+ national-level, multiple wins"
-        self.research   = "Published in BSPM Journal, 2026"
-
-    def current_work(self):
-        return "Making AI work for languages and communities it usually skips"
-```
-
-<br/>
-
 ## 🧭 About Me
 
 > I build AI systems that reach people the industry usually overlooks — rural storytellers, patients in low-cost hospitals, speakers of low-resource languages.
