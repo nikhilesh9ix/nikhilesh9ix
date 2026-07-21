@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:3CCF91,100:0F2027&height=220&section=header&text=Kuppili%20Nikhilesh%20Raju&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Building%20intelligence%20that%20reaches%20everyone&descAlignY=56&descSize=16" width="100%" />
 
 <a href="https://nikhileshraju.me">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3CCF91&center=true&vCenter=true&width=700&lines=CS+(AI%2FML)+Undergrad+%40+GCET+%E2%80%A2+2023-2027;Contributor+to+India's+first+Telugu+LLM;Amazon+ML+Summer+School+2026+%E2%80%A2+3K+of+60K%2B;25%2B+Hackathons+%E2%80%A2+Published+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3CCF91&center=true&vCenter=true&width=900&height=45&lines=CS+(AI%2FML)+Undergrad+%40+GCET+%E2%80%A2+2023-2027;Contributor+to+India's+first+Telugu+LLM;Amazon+ML+Summer+School+2026+%E2%80%A2+3K+of+60K%2B+picked;25%2B+Hackathons+%E2%80%A2+Published+Researcher" alt="Typing SVG" />
 </a>
 
 <br/>
