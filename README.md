@@ -106,7 +106,6 @@ timeline
     Feb 2024 : T-Hub — Fellow Trainee (Kickstart Entrepreneurship)
     Jan 2025 : IIT Kanpur — AI Research Intern
     May 2025 : Viswam AI — Tech Lead Intern (Telugu LLM)
-    Jul 2025 : NEN Club GCET — Team Leader
     Feb 2026 : Bitwise Learn — Backend & AI/ML Engineering Intern
 ```
 
