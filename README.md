@@ -361,12 +361,9 @@ Minimal glassmorphic note app — live transcription, auto hashtag tags, dark/li
 
 <br/>
 
-## 🎓 Education & Leadership
+## 🎓 Education
 
 **B.Tech, Computer Science (AI & ML)** — Geethanjali College of Engineering and Technology · `2023 – 2027`
-
-**Team Leader**, National Entrepreneurship Network Club, GCET · `Jul 2025 – Present`
-Leading entrepreneurship initiatives, organizing workshops and hackathons, connecting students to the startup ecosystem. *(Team Member: Sep 2024 – Jul 2025)*
 
 <br/>
 
