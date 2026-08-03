@@ -25,7 +25,6 @@
 - 🔬 AI research at **IIT Kanpur** · published in *Boletim da Sociedade Paranaense de Matemática*
 - 🎓 Selected for **Amazon ML Summer School 2026** — 3,000 of **60,000+** applicants
 - 📈 Currently building **Move** — a post-event causal engine explaining *why* a stock moved
-- 👥 **Team Leader**, National Entrepreneurship Network Club, GCET
 - ⚡ Off-keyboard: anime, chess, sketching, football, gym
 
 <div align="center">
