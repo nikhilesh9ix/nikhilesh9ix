@@ -316,11 +316,11 @@ Minimal glassmorphic note app — live transcription, auto hashtag tags, dark/li
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilesh9ix&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=3CCF91&icon_color=3CCF91&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh9ix&theme=radical&hide_border=true&ring=3CCF91&fire=3CCF91&currStreakLabel=3CCF91&background=0D1117" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilesh9ix&theme=radical" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh9ix&theme=radical&hide_border=true&ring=3CCF91&fire=3CCF91&currStreakLabel=3CCF91&background=0D1117" />
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilesh9ix&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=3CCF91&bg_color=0D1117" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilesh9ix&theme=radical" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilesh9ix&theme=radical" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilesh9ix&theme=radical" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilesh9ix&theme=react-dark&hide_border=true&area=true&color=3CCF91&line=3CCF91&point=ffffff&bg_color=0D1117" width="100%" />
 
