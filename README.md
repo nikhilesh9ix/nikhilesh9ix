@@ -332,6 +332,18 @@ Minimal glassmorphic note app — live transcription, auto hashtag tags, dark/li
 
 <br/>
 
+## 🚀 Nikhilesh's Contribution Arena
+
+My contribution graph, played as a space shooter — auto-refreshed daily from this repo's public activity.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nikhilesh9ix/nikhilesh9ix/main/game.gif" width="100%" alt="Nikhilesh's GitHub contributions rendered as a space shooter game" />
+
+</div>
+
+<br/>
+
 ## 💡 What I'm Good At
 
 <div align="center">
